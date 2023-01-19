@@ -1,0 +1,15 @@
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\MovieAPIConsumer.exe
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\MovieAPIConsumer.deps.json
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\MovieAPIConsumer.runtimeconfig.json
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\MovieAPIConsumer.dll
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\ref\MovieAPIConsumer.dll
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\bin\Debug\net6.0\MovieAPIConsumer.pdb
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.csproj.AssemblyReference.cache
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.AssemblyInfoInputs.cache
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.AssemblyInfo.cs
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.csproj.CoreCompileInputs.cache
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.dll
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\ref\MovieAPIConsumer.dll
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.pdb
+D:\programacao\C#\consumo api\MovieAPIConsumer\MovieAPIConsumer\obj\Debug\net6.0\MovieAPIConsumer.genruntimeconfig.cache
